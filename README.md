@@ -1,13 +1,13 @@
 
-This is a lab assignment of CS3241.
+This is a lab assignment for CS3241.
 
-In this lab, I applied Ray-tracing technics to render 3D graphics.
+In this lab, I applied the Ray Tracing technic to render 3D graphs.
 
 For the first task, I modified Sphere.cpp to render it into the scene.
 
 ![spheres](img_spheres.png)
 
-For the second task, I modified Raytrace.cpp to add lights, reflections and shadows on to the objects in the scene.
+For the second task, I modified Raytrace.cpp to add lights, reflections and shadows to the objects in the scene.
 
 ![scene1](img_r2s.png)
 
