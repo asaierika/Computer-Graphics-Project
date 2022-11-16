@@ -1,0 +1,3 @@
+/Users/jiang_zhimeng/Downloads/Lab4_todo_(xplat-cmake)/build/CMakeFiles/Lab4.dir
+/Users/jiang_zhimeng/Downloads/Lab4_todo_(xplat-cmake)/build/CMakeFiles/edit_cache.dir
+/Users/jiang_zhimeng/Downloads/Lab4_todo_(xplat-cmake)/build/CMakeFiles/rebuild_cache.dir

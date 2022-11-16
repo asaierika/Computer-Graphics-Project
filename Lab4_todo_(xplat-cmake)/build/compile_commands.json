@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/Users/jiang_zhimeng/Downloads/Lab4_todo_(xplat-cmake)/build",
+  "command": "/usr/bin/clang++  -I\"/Users/jiang_zhimeng/Downloads/Lab4_todo_(xplat-cmake)/include\" -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=c++17 -o CMakeFiles/Lab4.dir/Main.cpp.o -c \"/Users/jiang_zhimeng/Downloads/Lab4_todo_(xplat-cmake)/Main.cpp\"",
+  "file": "/Users/jiang_zhimeng/Downloads/Lab4_todo_(xplat-cmake)/Main.cpp"
+},
+{
+  "directory": "/Users/jiang_zhimeng/Downloads/Lab4_todo_(xplat-cmake)/build",
+  "command": "/usr/bin/clang++  -I\"/Users/jiang_zhimeng/Downloads/Lab4_todo_(xplat-cmake)/include\" -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=c++17 -o CMakeFiles/Lab4.dir/Camera.cpp.o -c \"/Users/jiang_zhimeng/Downloads/Lab4_todo_(xplat-cmake)/Camera.cpp\"",
+  "file": "/Users/jiang_zhimeng/Downloads/Lab4_todo_(xplat-cmake)/Camera.cpp"
+},
+{
+  "directory": "/Users/jiang_zhimeng/Downloads/Lab4_todo_(xplat-cmake)/build",
+  "command": "/usr/bin/clang++  -I\"/Users/jiang_zhimeng/Downloads/Lab4_todo_(xplat-cmake)/include\" -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=c++17 -o CMakeFiles/Lab4.dir/Image.cpp.o -c \"/Users/jiang_zhimeng/Downloads/Lab4_todo_(xplat-cmake)/Image.cpp\"",
+  "file": "/Users/jiang_zhimeng/Downloads/Lab4_todo_(xplat-cmake)/Image.cpp"
+},
+{
+  "directory": "/Users/jiang_zhimeng/Downloads/Lab4_todo_(xplat-cmake)/build",
+  "command": "/usr/bin/clang++  -I\"/Users/jiang_zhimeng/Downloads/Lab4_todo_(xplat-cmake)/include\" -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=c++17 -o CMakeFiles/Lab4.dir/ImageIO.cpp.o -c \"/Users/jiang_zhimeng/Downloads/Lab4_todo_(xplat-cmake)/ImageIO.cpp\"",
+  "file": "/Users/jiang_zhimeng/Downloads/Lab4_todo_(xplat-cmake)/ImageIO.cpp"
+},
+{
+  "directory": "/Users/jiang_zhimeng/Downloads/Lab4_todo_(xplat-cmake)/build",
+  "command": "/usr/bin/clang++  -I\"/Users/jiang_zhimeng/Downloads/Lab4_todo_(xplat-cmake)/include\" -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=c++17 -o CMakeFiles/Lab4.dir/Raytrace.cpp.o -c \"/Users/jiang_zhimeng/Downloads/Lab4_todo_(xplat-cmake)/Raytrace.cpp\"",
+  "file": "/Users/jiang_zhimeng/Downloads/Lab4_todo_(xplat-cmake)/Raytrace.cpp"
+},
+{
+  "directory": "/Users/jiang_zhimeng/Downloads/Lab4_todo_(xplat-cmake)/build",
+  "command": "/usr/bin/clang++  -I\"/Users/jiang_zhimeng/Downloads/Lab4_todo_(xplat-cmake)/include\" -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=c++17 -o CMakeFiles/Lab4.dir/Util.cpp.o -c \"/Users/jiang_zhimeng/Downloads/Lab4_todo_(xplat-cmake)/Util.cpp\"",
+  "file": "/Users/jiang_zhimeng/Downloads/Lab4_todo_(xplat-cmake)/Util.cpp"
+},
+{
+  "directory": "/Users/jiang_zhimeng/Downloads/Lab4_todo_(xplat-cmake)/build",
+  "command": "/usr/bin/clang++  -I\"/Users/jiang_zhimeng/Downloads/Lab4_todo_(xplat-cmake)/include\" -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=c++17 -o CMakeFiles/Lab4.dir/Plane.cpp.o -c \"/Users/jiang_zhimeng/Downloads/Lab4_todo_(xplat-cmake)/Plane.cpp\"",
+  "file": "/Users/jiang_zhimeng/Downloads/Lab4_todo_(xplat-cmake)/Plane.cpp"
+},
+{
+  "directory": "/Users/jiang_zhimeng/Downloads/Lab4_todo_(xplat-cmake)/build",
+  "command": "/usr/bin/clang++  -I\"/Users/jiang_zhimeng/Downloads/Lab4_todo_(xplat-cmake)/include\" -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=c++17 -o CMakeFiles/Lab4.dir/Sphere.cpp.o -c \"/Users/jiang_zhimeng/Downloads/Lab4_todo_(xplat-cmake)/Sphere.cpp\"",
+  "file": "/Users/jiang_zhimeng/Downloads/Lab4_todo_(xplat-cmake)/Sphere.cpp"
+},
+{
+  "directory": "/Users/jiang_zhimeng/Downloads/Lab4_todo_(xplat-cmake)/build",
+  "command": "/usr/bin/clang++  -I\"/Users/jiang_zhimeng/Downloads/Lab4_todo_(xplat-cmake)/include\" -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=c++17 -o CMakeFiles/Lab4.dir/Triangle.cpp.o -c \"/Users/jiang_zhimeng/Downloads/Lab4_todo_(xplat-cmake)/Triangle.cpp\"",
+  "file": "/Users/jiang_zhimeng/Downloads/Lab4_todo_(xplat-cmake)/Triangle.cpp"
+}
+]
